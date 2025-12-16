@@ -17,12 +17,6 @@ Navegue para o novo diretório para começar a trabalhar com os arquivos:
 
 cd kamikase
 
-Instalação das Ferramentas (Dependências)
-
-O script principal do projeto (kamikase.sh) utiliza ferramentas ou pacotes de sistema. Você deve instalá-los para garantir a funcionalidade total.
-
-No Kali Linux ou em sistemas baseados em Debian/Ubuntu:
-
 Atualize a lista de pacotes:
 
 sudo apt update
@@ -42,5 +36,6 @@ chmod +x kamikase.sh
 Inicie o Script:
 
 ./kamikase.sh
+
 
 
